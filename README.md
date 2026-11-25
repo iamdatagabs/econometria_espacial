@@ -2,7 +2,7 @@
 
 Repositório de apoio à disciplina de **Econometria Espacial**, com códigos em R, material de análise de dados em painel e um laboratório web interativo.
 
-## 🌐 Laboratório online
+**Portfólio:** [Gabriel Passos — Engineering Portfolio](https://iamdatagabs.github.io/iamdatagabs/portfolio/) · **Código:** [GitHub](https://github.com/iamdatagabs/econometria_espacial)\n\n## 🌐 Laboratório online
 
 **[Acessar o dashboard — GitHub Pages](https://iamdatagabs.github.io/econometria_espacial/)**
 
